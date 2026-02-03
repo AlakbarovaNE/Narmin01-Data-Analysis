@@ -17,5 +17,5 @@ The analysis of user behavior and betting activity revealed several non-obvious 
 * Segment users by bonus efficiency and consider offering higher-value bonuses to those with a proven ability to convert them into profitable outcomes.
 * Launch reactivation offers for low-activity users (especially desktop users) with simpler and more guided bonus offers to drive activity.
 
-
-📌 Note: The Power BI (.pbix) file can be downloaded and viewed locally using Power BI Desktop.
+  
+  📌 Note: The Power BI (.pbix) file can be downloaded and viewed locally using Power BI Desktop.
