@@ -18,4 +18,5 @@ The analysis of user behavior and betting activity revealed several non-obvious 
 * Launch reactivation offers for low-activity users (especially desktop users) with simpler and more guided bonus offers to drive activity.
 
   
-  📌 Note: The Power BI (.pbix) file can be downloaded and viewed locally using Power BI Desktop.
+ ##  📌 Note
+  The Power BI (.pbix) file can be downloaded and viewed locally using Power BI Desktop.
